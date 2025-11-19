@@ -28,7 +28,7 @@ export interface PostData {
   userId: number;
   id?: number;
   title: string;
-  body:string;
+  body: string;
 }
 
 // user props
