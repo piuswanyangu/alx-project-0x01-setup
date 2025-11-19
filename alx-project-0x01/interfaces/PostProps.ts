@@ -5,4 +5,3 @@ export interface PostProps {
     userId: number;
 }
 
-export default PostProps;
