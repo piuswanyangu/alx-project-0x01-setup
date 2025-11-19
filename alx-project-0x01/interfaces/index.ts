@@ -60,5 +60,5 @@ export interface UserProps {
 
 export interface PostModalProps {
   onClose: () => void;
-  onSubmit: (post: PostData)=> void;
+  onSubmit: (post: PostData) => void;
 }
