@@ -1,3 +1,4 @@
+// post cards
 import React from "react";
 import { PostProps } from "@/interfaces/PostProps";
 
