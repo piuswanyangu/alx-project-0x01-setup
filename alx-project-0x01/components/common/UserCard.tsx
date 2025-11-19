@@ -1,5 +1,5 @@
 import React from "react";
-import { UserProps} from "@/interfaces";
+import { UserProps } from "@/interfaces";
 // export interface UserProps {
 //     id: number;
 //     name: string;
